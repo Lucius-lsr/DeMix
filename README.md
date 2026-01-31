@@ -29,5 +29,5 @@ This is a preview version for implementing DeMix. The detailed code, models for 
   and obtain the final optimal data mixture.
 
 
-# Simpled DeMix Dataset
+# DeMix Corpora
 Coming soon after passing compliance verification.
