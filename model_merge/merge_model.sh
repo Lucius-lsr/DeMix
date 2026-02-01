@@ -1,9 +1,7 @@
 #!/bin/bash
 
 CONFIG_FILE=""
-ENV_PATH="PATH_TO_CONDA_ACTIVATE"
-ENV_NAME="model_merge"
-SCRIPT_PATH="PATH_TO_RUN_YAML_PY"
+SCRIPT_PATH="run_yaml.py"
 
 MERGEKIT_ROOT=$(dirname "$(realpath "$SCRIPT_PATH")")/../..
 PYTHONPATH_ADDITION=$(realpath "$MERGEKIT_ROOT")
@@ -190,11 +188,6 @@ fi
 
 if [ ! -f "$SCRIPT_PATH" ]; then
     echo "Error: python script not found: $SCRIPT_PATH"
-    exit 1
-fi
-
-if [ ! -f "$ENV_PATH" ]; then
-    echo "Error: conda activate script not found: $ENV_PATH"
     exit 1
 fi
 
