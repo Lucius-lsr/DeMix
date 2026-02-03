@@ -48,4 +48,4 @@ We provide a quick guide to reproduce DeMix
 
 # DeMix Corpora
 `https://huggingface.co/datasets/lucius1022/DeMix_Corpora`
-Pre-training data is coming soon after passing compliance verification.
+Pre-training data is coming soon.
