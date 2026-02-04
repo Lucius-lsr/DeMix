@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2602.00747-b31b1b.svg)](https://arxiv.org/abs/2602.00747)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeMix_Corpora-ffc107)](https://huggingface.co/datasets/lucius1022/DeMix_Corpora)
 
-📄 **Paper:** [DeMix: Data Mixture Estimation via Decomposing and Merging](https://arxiv.org/abs/2602.00747)
+📄 **Paper:** [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/abs/2602.00747)
 
 🤗 **Dataset:** [DeMix Corpora](https://huggingface.co/datasets/lucius1022/DeMix_Corpora)
 
