@@ -7,6 +7,8 @@
 
 🤗 **Dataset:** [DeMix Corpora](https://huggingface.co/datasets/lucius1022/DeMix_Corpora)
 
+🐱 **Github:** [Demix](https://github.com/Lucius-lsr/DeMix)
+
 ![DeMix Overview](assets/demix_overview.png)
 
 ---
