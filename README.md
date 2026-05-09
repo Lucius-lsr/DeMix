@@ -1,4 +1,4 @@
-# DeMix
+# DeMix (ICML 2026)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.00747-b31b1b.svg)](https://arxiv.org/abs/2602.00747)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeMix_Corpora-ffc107)](https://huggingface.co/datasets/lucius1022/DeMix_Corpora)
