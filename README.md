@@ -16,7 +16,7 @@
 ## 📚 DeMix Corpora
 Link: [https://huggingface.co/datasets/lucius1022/DeMix_Corpora](https://huggingface.co/datasets/lucius1022/DeMix_Corpora)
 
-Pre-training data is coming soon.
+Stage 3 pre-training data (2T) is available. Due to Hugging Face storage constraints, data of other stages cannot be provided, while we offer complete information on their sources and distribution ratios.
 
 ## 🚀 Reproduce DeMix
 We provide a quick guide to reproduce DeMix
@@ -48,9 +48,6 @@ We provide a quick guide to reproduce DeMix
 ---
 
 ## 🛠️ DeMix Pipeline
-
-![DeMix Pipeline](assets/pipeline_diagram.png)
-*(Please replace `assets/pipeline_diagram.png` with the actual path to your pipeline diagram)*
 
 ### 1. 📦 Prepare Candidate Dataset
 - Prepare and preprocess the candidate datasets for mixing.
